@@ -1,0 +1,6 @@
+modules installed 
+cors -- allow ajax requests
+body-parser -- get request body from frontend
+express -- node library to minimize code
+mysql -- for database
+nodemon -- auto refresh server
