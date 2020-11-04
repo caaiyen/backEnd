@@ -83,16 +83,14 @@
 }
 
 .fab {
-    position: absolute;
-    z-index: 1000;
-    bottom: 5%;
-    right: 5%;
+    right: 15%;
     border: #007bff 1px solid;
     font-weight: bold;
     padding-top: 1%;
     border-radius: 50%;
     height: 100px;
     width: 100px;
+    margin-top: 2%;
 }
 
 .add_product {
